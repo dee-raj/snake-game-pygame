@@ -19,8 +19,11 @@ This is a classic Snake game implemented in Python using the Pygame library. The
 **Dependencies**
 
 This game relies on the following libraries:
+
 🅐 Python: https://www.python.org/
+
 🅑 pygame: https://www.pygame.org/
+
  Please make sure you have these dependencies installed to run the game.
 
 **How to Play**
