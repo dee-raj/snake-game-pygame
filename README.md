@@ -9,8 +9,11 @@ This is a classic Snake game implemented in Python using the Pygame library. The
 **Controls**
 
 ➤ Use the arrow keys to control the snake's direction.
+
 ➤ Press 'Space' to pause the game and mute the background music.
+
 ➤ Press 'P' to resume the game and unmute the background music.
+
 ➤ Press 'Enter' to restart the game after a game over.
 
 **Dependencies**
