@@ -7,18 +7,21 @@ This is a classic Snake game implemented in Python using the Pygame library. The
   ➨ python mainGame.py
 
 **Controls**
+
 ➤ Use the arrow keys to control the snake's direction.
 ➤ Press 'Space' to pause the game and mute the background music.
 ➤ Press 'P' to resume the game and unmute the background music.
 ➤ Press 'Enter' to restart the game after a game over.
 
 **Dependencies**
+
 This game relies on the following libraries:
 🅐 Python: https://www.python.org/
 🅑 pygame: https://www.pygame.org/
  Please make sure you have these dependencies installed to run the game.
 
-How to Play
+**How to Play**
+
 1. Launch the game by running mainGame.py.
 2. Control the snake using the arrow keys.
 3. Collect the food (city) to grow your snake and increase your score.
@@ -30,6 +33,7 @@ How to Play
 9. Press 'esc' to exit from the game.
 
 **Contributing**
+
 If you'd like to contribute to this project, you can follow these steps:
 
 1. Fork the repository.
@@ -40,6 +44,7 @@ If you'd like to contribute to this project, you can follow these steps:
 7. Create a pull request to the original repository.
 
 **License**
+
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 MIT License - This license allows for the free use, modification, and distribution of the project, with minimal restrictions.
 
